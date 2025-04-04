@@ -14,16 +14,18 @@ In the digital age, capturing text from physical sources has never been easier. 
 <p>
 Key Features:
 
-Effortless Text Scanning: Liber Scan's intuitive interface makes text scanning a breeze. Just point your camera at the text, and let the app do the rest.
+👍 Effortless Text Scanning: Liber Scan's intuitive interface makes text scanning a breeze. Just point your camera at the text, and let the app do the rest.
 
-Text Recognition: Our advanced Optical Character Recognition (OCR) technology recognizes and extracts text accurately, saving you time and effort.
+📷 Text Recognition: Our advanced Optical Character Recognition (OCR) technology recognizes and extracts text accurately, saving you time and effort.
 
-Quick and Accurate Results: Experience speedy text scanning with a high degree of accuracy, even for complex fonts and languages.
+✅ Quick and Accurate Results: Experience speedy text scanning with a high degree of accuracy, even for complex fonts and languages.
 
-Save and Edit Text: Save scanned text for later use or make edits directly within the app. Customize text size, format, and more.
+📝 Save and Edit Text: Save scanned text for later use or make edits directly within the app. Customize text size, format, and more.
 
-Offline Mode: Liber Scan works without an internet connection, ensuring you can scan text anytime, anywhere.
+🌐 Offline Mode: Liber Scan works without an internet connection, ensuring you can scan text anytime, anywhere.
 </p>
+
+<h1></h1>
 
 <h1 align="center"><img src="https://github.com/MikleGol/Liber-Scan/blob/main/LiberScan_1920x1080_4.png" width="30%"> <img src="https://github.com/MikleGol/Liber-Scan/blob/main/LiberScan_1920x1080_5.png" width="30%"> <img src="https://github.com/MikleGol/Liber-Scan/blob/main/LiberScan_1920x1080_6.png" width="30%"></h1>
 
